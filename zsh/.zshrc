@@ -112,6 +112,8 @@ source $ZSH/oh-my-zsh.sh
 
 alias hx="helix"
 
+alias gotop="gotop --nvidia"
+
 # install npm packages globally without sudo
 # from here: https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md
 NPM_PACKAGES="${HOME}/.npm-packages"
