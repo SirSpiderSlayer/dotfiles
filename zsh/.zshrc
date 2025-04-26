@@ -125,7 +125,7 @@ export PATH="$PATH:$NPM_PACKAGES/bin"
 export MANPATH="${MANPATH-$(manpath)}:$NPM_PACKAGES/share/man"
 
 # doom emacs 
-export PATH=$PATH:$HOME/.config/emacs/bin
+export PATH=$PATH:$HOME/.emacs.d/bin
 
 # lunar vim
 export PATH=$PATH:$HOME/.local/bin
