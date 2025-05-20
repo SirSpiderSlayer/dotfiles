@@ -9,7 +9,8 @@ Make sure you are running `Hyprland`, and the following are installed:
 
 `$ yay -S walker-bin`
 
-`$ yay -S gBar-git`
+`$ yay -S ashell`
+
 
 
 ## Vim
