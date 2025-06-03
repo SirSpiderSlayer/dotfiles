@@ -11,7 +11,8 @@ Make sure you are running `Hyprland`, and the following are installed:
 
 `$ yay -S ashell`
 
-
+## ZSH Plugins
+See here: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
 
 ## Vim
 `vim-plug` needs to be installed to manage plugins. Use the command found in the [installation instructions
