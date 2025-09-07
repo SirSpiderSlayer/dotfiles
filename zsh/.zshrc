@@ -80,10 +80,10 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # plugins=(git)
  plugins=(
   git
-  zsh-autosuggestions
+  # zsh-autosuggestions
   zsh-syntax-highlighting
   fast-syntax-highlighting
-  zsh-autocomplete
+  # zsh-autocomplete
  )
 source $ZSH/oh-my-zsh.sh
 
@@ -149,3 +149,4 @@ export LANG=en_US.UTF-8
 export LC_TYPE=en_US.UTF-8
 
 export ANTHROPIC_API_KEY="REDACTED_KEY"
+eval "$(zellij setup --generate-auto-start zsh)"
