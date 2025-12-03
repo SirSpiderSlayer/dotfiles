@@ -141,6 +141,9 @@ export PATH=$PATH:$HOME/.emacs.d/bin
 # lunar vim
 export PATH=$PATH:$HOME/.local/bin
 
+#golang
+export PATH=$PATH:$HOME/go/bin
+
 #todo possibly uncomment this if you get the whole ssh "couldnt connect to auth agent"
 #alias startx='ssh-agent startx'
 export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
